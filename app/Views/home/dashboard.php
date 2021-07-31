@@ -57,9 +57,9 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
+      <a href="index.html" class="logo"><img src="../images/logo.png" alt=""></a>
       <h1 class="logo"><a href="index.html">BPN Kota Palangka Raya</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
