@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>BPN Kota Palangka raya</title>
+  <title>BPN Kota Palangka Raya</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="<?php echo base_url('img'); ?>/favicon.png" rel="icon">
+  <link href="<?php echo base_url('images'); ?>/logo.png" rel="icon">
   <link href="<?php echo base_url('img'); ?>/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -57,14 +57,14 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">BizLand<span>.</span></a></h1>
+      <h1 class="logo"><a href="index.html">BPN Kota Palangka Raya</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#about"></a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
@@ -96,7 +96,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
-      <h1>Welcome to <span>BizLand</span></h1>
+      <h1>Selamat Datang <span>ATR/BPN</span></h1>
       <h2 class="text-dark">We are team of talented designers making websites with Bootstrap</h2>
       <div class="d-flex">
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
