@@ -96,7 +96,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
-      <h1 class="text-light shadow-sm">Selamat Datang <span class="shadow-sm">ATR/BPN PALANGKA RAYA</span></h1>
+      <h1 class="text-light shadow-sm">SELAMAT DATANG DI <span class="shadow-sm">ATR/BPN PALANGKA RAYA</span></h1>
       <h2 class="text-light shadow-sm">Kementerian Agraria dan Tata Ruang / Badan Pertahanan Nasional Kantor Pertahanan Kota Palangka Raya</h2>
       <div class="d-flex">
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
