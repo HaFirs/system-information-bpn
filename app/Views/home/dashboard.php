@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>BizLand Bootstrap Template - Index</title>
+  <title>BPN Kota Palangka raya</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -17,12 +17,12 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="<?php echo base_url('vendor'); ?>/aos/aos.css" rel="stylesheet">
-  <link href="<?php echo base_url('vendor'); ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="<?php echo base_url('vendor'); ?>/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="<?php echo base_url('vendor'); ?>/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="<?php echo base_url('vendor'); ?>/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="<?php echo base_url('vendor'); ?>/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="<?php echo base_url('vendors'); ?>/aos/aos.css" rel="stylesheet">
+  <link href="<?php echo base_url('vendors'); ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?php echo base_url('vendors'); ?>/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="<?php echo base_url('vendors'); ?>/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="<?php echo base_url('vendors'); ?>/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="<?php echo base_url('vendors'); ?>/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="<?php echo base_url('css'); ?>/style.css" rel="stylesheet">
@@ -1009,14 +1009,14 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="<?php echo base_url('vendor'); ?>/aos/aos.js"></script>
-  <script src="<?php echo base_url('vendor'); ?>/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="<?php echo base_url('vendor'); ?>/glightbox/js/glightbox.min.js"></script>
-  <script src="<?php echo base_url('vendor'); ?>/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="<?php echo base_url('vendor'); ?>/php-email-form/validate.js"></script>
-  <script src="<?php echo base_url('vendor'); ?>/purecounter/purecounter.js"></script>
-  <script src="<?php echo base_url('vendor'); ?>/swiper/swiper-bundle.min.js"></script>
-  <script src="<?php echo base_url('vendor'); ?>/waypoints/noframework.waypoints.js"></script>
+  <script src="<?php echo base_url('vendors'); ?>/aos/aos.js"></script>
+  <script src="<?php echo base_url('vendors'); ?>/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="<?php echo base_url('vendors'); ?>/glightbox/js/glightbox.min.js"></script>
+  <script src="<?php echo base_url('vendors'); ?>/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="<?php echo base_url('vendors'); ?>/php-email-form/validate.js"></script>
+  <script src="<?php echo base_url('vendors'); ?>/purecounter/purecounter.js"></script>
+  <script src="<?php echo base_url('vendors'); ?>/swiper/swiper-bundle.min.js"></script>
+  <script src="<?php echo base_url('vendors'); ?>/waypoints/noframework.waypoints.js"></script>
 
   <!-- Template Main JS File -->
   <script src="<?php echo base_url('js'); ?>/main.js"></script>
