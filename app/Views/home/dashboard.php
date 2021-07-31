@@ -130,36 +130,15 @@
             <p>
               Kantor Pertahanan menyelenggarakan fungsi sebagai berikut :
             </p>
-            <table>
-              <tr>
-                <td>a.</td>
-                <td>Penyusunan rencana, program, anggaran dan pelaporan;</td>
-              </tr>
-              <tr>
-                <td>b.</td>
-                <td>Pelaksanaan survei, pengukuran dan pemetaan;</td>
-              </tr>
-              <tr>
-                <td>c.</td>
-                <td>Pelaksanaan penetapan hak tanah, pendaftaran tanah dan pemberdayaan masyarakat;</td>
-              </tr>
-              <tr>
-                <td>d.</td>
-                <td>Pelaksanaan penataa pertahanan;</td>
-              </tr>
-              <tr>
-                <td>e.</td>
-                <td>Pelaksanaan pengadaan tanah;</td>
-              </tr>
-              <tr>
-                <td>f.</td>
-                <td>Pelaksanaan pengendalian pertahanan dan penanganan sengketa dan perkara pertahanan; dan</td>
-              </tr>
-              <tr>
-                <td>g.</td>
-                <td>Pelaksanaan pemberian dukungan administrasi kepada seluruh unit organisasi kantor pertahanan.</td>
-              </tr>
-            </table>
+            <ul>
+              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Perumahan Bhakti Jl. Tingang Induk tahun 2006 sebanyak 8 unit rumah</li>
+              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan survei, pengukuran dan pemetaan;</li>
+              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan penetapan hak tanah, pendaftaran tanah dan pemberdayaan masyarakat;</li>
+              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan penataa pertahanan;</li>
+              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan pengadaan tanah;</li>
+              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan pengendalian pertahanan dan penanganan sengketa dan perkara pertahanan; dan</li>
+              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan pemberian dukungan administrasi kepada seluruh unit organisasi kantor pertahanan.</li>
+            </ul>
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
