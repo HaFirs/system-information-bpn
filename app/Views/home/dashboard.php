@@ -63,9 +63,9 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
+          <li><a class="nav-link scrollto" href="#about">Tentang</a></li>
+          <li><a class="nav-link scrollto" href="#services">Persyaratan</a></li>
           <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
@@ -85,7 +85,7 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -112,7 +112,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>About</h2>
+          <h2>Tentang</h2>
           <h3>Tentang <span>ATR/BPN</span></h3>
           <p>Kementrian Agraria dan Tata Ruang / Badan Pertahanan Nasional Kantor Pertahanan Kota Palangka Raya</p>
         </div>
@@ -121,10 +121,10 @@
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
             <h3>Kantor Pertahanan Koata Palangka Raya</h3>
             <p style="text-align:justify">
-              Kantor Pertahanan Kota Palangka Raya dibentuk untuk menyelenggarakan tugas dan fungsi Badan Pertahanan Nasional di Kota Plangka Raya. 
-              Sesuai dengan Peraturan Menteri Agraria Dan Tata Ruang / Kepala Badan Pertahanan Nasional Republik Indonesia Nomor 38 Tahun 2016 
-              Tentang Organisasi Dan Tata Kerja Kantor Wilayah Badan Pertahanan Nasional dan Kantor Prtahanan. Kantor Pertahanan memiliki Kedudukan, Tugas 
-              dan Fungsi sebagai instansi vertikal Kementrian Agraria dan Tata Ruang / Badan Pertahanan Nasional di kabupaten / kota yang berada di bawah 
+              Kantor Pertahanan Kota Palangka Raya dibentuk untuk menyelenggarakan tugas dan fungsi Badan Pertahanan Nasional di Kota Plangka Raya.
+              Sesuai dengan Peraturan Menteri Agraria Dan Tata Ruang / Kepala Badan Pertahanan Nasional Republik Indonesia Nomor 38 Tahun 2016
+              Tentang Organisasi Dan Tata Kerja Kantor Wilayah Badan Pertahanan Nasional dan Kantor Prtahanan. Kantor Pertahanan memiliki Kedudukan, Tugas
+              dan Fungsi sebagai instansi vertikal Kementrian Agraria dan Tata Ruang / Badan Pertahanan Nasional di kabupaten / kota yang berada di bawah
               dan bertanggung jawab kepada Menteri Agraria dan Tata Ruang / Kepala Badan Pertahanan Nasional melalui Kepala Kantor Wilayah Badan Pertahanan Nasional.
             </p>
             <p>
@@ -200,7 +200,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
+          <h2>Persyaratan</h2>
           <h3>Check our <span>Services</span></h3>
           <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
         </div>
@@ -264,24 +264,24 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact</h2>
-          <h3><span>Contact Us</span></h3>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <h2>Kontak</h2>
+          <h3><span>Kontak Kantor</span></h3>
+          <p>Hubungi kami melalui kontak dibawah ini :</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-6">
             <div class="info-box mb-4">
               <i class="bx bx-map"></i>
-              <h3>Our Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <h3>Alamat Kantor</h3>
+              <p>Jalan D.I Panjaitan Nomor 10</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6">
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
-              <h3>Email Us</h3>
+              <h3>Email Kantor</h3>
               <p>contact@example.com</p>
             </div>
           </div>
@@ -289,8 +289,8 @@
           <div class="col-lg-3 col-md-6">
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
-              <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <h3>SMS / WA</h3>
+              <p>0852 5193 5353</p>
             </div>
           </div>
 
@@ -301,32 +301,6 @@
           <div class="col-lg-6 ">
             <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
           </div>
-
-          <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="col form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                </div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-          </div>
-
         </div>
 
       </div>
@@ -336,21 +310,6 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
-
-    <div class="footer-newsletter">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <div class="footer-top">
       <div class="container">
         <div class="row">
@@ -371,14 +330,14 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Persyaratan</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Persyaratan</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
