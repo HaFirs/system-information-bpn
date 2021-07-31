@@ -113,12 +113,53 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <h3>Find Out More <span>About Us</span></h3>
-          <p>Kementrian Agraria dan Tata Ruang / Badan Pertahanan Nasional Kantor Pertahanan Kota Palangkaraya</p>
+          <h3>Tentang <span>ATR/BPN</span></h3>
+          <p>Kementrian Agraria dan Tata Ruang / Badan Pertahanan Nasional Kantor Pertahanan Kota Palangka Raya</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
+            <h3>Kantor Pertahanan Koata Palangka Raya</h3>
+            <p style="text-align:justify">
+              Kantor Pertahanan Kota Palangka Raya dibentuk untuk menyelenggarakan tugas dan fungsi Badan Pertahanan Nasional di Kota Plangka Raya. 
+              Sesuai dengan Peraturan Menteri Agraria Dan Tata Ruang / Kepala Badan Pertahanan Nasional Republik Indonesia Nomor 38 Tahun 2016 
+              Tentang Organisasi Dan Tata Kerja Kantor Wilayah Badan Pertahanan Nasional dan Kantor Prtahanan. Kantor Pertahanan memiliki Kedudukan, Tugas 
+              dan Fungsi sebagai instansi vertikal Kementrian Agraria dan Tata Ruang / Badan Pertahanan Nasional di kabupaten / kota yang berada di bawah 
+              dan bertanggung jawab kepada Menteri Agraria dan Tata Ruang / Kepala Badan Pertahanan Nasional melalui Kepala Kantor Wilayah Badan Pertahanan Nasional.
+            </p>
+            <p>
+              Kantor Pertahanan menyelenggarakan fungsi sebagai berikut :
+            </p>
+            <table>
+              <tr>
+                <td>a.</td>
+                <td>Penyusunan rencana, program, anggaran dan pelaporan;</td>
+              </tr>
+              <tr>
+                <td>b.</td>
+                <td>Pelaksanaan survei, pengukuran dan pemetaan;</td>
+              </tr>
+              <tr>
+                <td>c.</td>
+                <td>Pelaksanaan penetapan hak tanah, pendaftaran tanah dan pemberdayaan masyarakat;</td>
+              </tr>
+              <tr>
+                <td>d.</td>
+                <td>Pelaksanaan penataa pertahanan;</td>
+              </tr>
+              <tr>
+                <td>e.</td>
+                <td>Pelaksanaan pengadaan tanah;</td>
+              </tr>
+              <tr>
+                <td>f.</td>
+                <td>Pelaksanaan pengendalian pertahanan dan penanganan sengketa dan perkara pertahanan; dan</td>
+              </tr>
+              <tr>
+                <td>g.</td>
+                <td>Pelaksanaan pemberian dukungan administrasi kepada seluruh unit organisasi kantor pertahanan.</td>
+              </tr>
+            </table>
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
