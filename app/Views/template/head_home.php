@@ -53,7 +53,7 @@
 	        	<li class="nav-item active"><a href="index.html" class="nav-link pl-0">Home</a></li>
 	        	<li class="nav-item"><a href="about.html" class="nav-link">Tentang BPN</a></li>
 	        	<li class="nav-item"><a href="project.html" class="nav-link">Layanan </a></li>
-	        	<li class="nav-item"><a href="services.html" class="nav-link">Saran dan Masukan</a></li>
+	        	<li class="nav-item"><a href="#saran" class="nav-link page-scroll">Saran dan Masukan</a></li>
 	        	
 	        </ul>
 	      </div>
