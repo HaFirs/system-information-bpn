@@ -1,11 +1,14 @@
-<?php
-
-namespace App\Controllers;
+<?php namespace App\Controllers;
 
 class Home extends BaseController
 {
 	public function index()
-	{
-		return view('welcome_message');
-	}
+    {
+        echo view('template/head_home');
+		echo view('home/dashboard');
+		echo view('template/footer_home');
+    }
+
+	//--------------------------------------------------------------------
+
 }
