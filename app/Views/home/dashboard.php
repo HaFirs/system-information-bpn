@@ -65,7 +65,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
           <li><a class="nav-link scrollto" href="#about">Tentang</a></li>
-          <li><a class="nav-link scrollto" href="#services">Persyaratan</a></li>
+          <li><a class="nav-link scrollto" href="#services">Pelayanan</a></li>
           <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
@@ -179,9 +179,9 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Persyaratan</h2>
-          <h3>Daftar <span>Persyaratan</span></h3>
-          <p>Pilih Persyaratan Yang Anda Inginkan</p>
+          <h2>Pelayanan</h2>
+          <h3>Daftar <span>Pelayanan</span> beserta <span>Persyaratannya</span> </h3>
+          <p>Silahkan lihat Pelayanan dan Persyaratan Yang Anda Inginkan</p>
         </div>
 
         <div class="row">
@@ -285,25 +285,88 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">Pendaftaran Hak Tanggungan</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p>dawdwawaeaweaw</p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+              </ol>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4><a href="">Dele cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">Penghapusan Hak Tanggungan/Roya</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p>dawdwawaeaweaw</p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+              </ol>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-arch"></i></div>
-              <h4><a href="">Divera don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <h4><a href="">Pertimbangan Teknis Pertahanan</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p>dawdwawaeaweaw</p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+              </ol>
             </div>
           </div>
 
@@ -383,7 +446,7 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Persyaratan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Pelayanan</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
