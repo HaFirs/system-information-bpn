@@ -34,6 +34,17 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 
+$routes->get('/login', 'Auth::index');
+$routes->post('/login/proses_login', 'Auth::proses_login');
+$routes->get('/logout', 'Auth::logout');
+
+$routes->get('auth/logout', 'Auth::logout');
+
+$routes->get('register', 'Auth::register');
+$routes->post('proses_register', 'Auth::proses_register');
+
+$routes->get('dashboard', 'Dashboard::index');
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing

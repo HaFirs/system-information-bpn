@@ -41,8 +41,8 @@
   <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">contact@example.com</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">kot-palangkaraya@atrbpn.go.id</a></i>
+        <i class="bi bi-phone d-flex align-items-center ms-4"><span>(0536) 3220057</span></i>
       </div>
       <div class="social-links d-none d-md-flex align-items-center">
         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -86,6 +86,7 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
+          <li><a class="nav-link scrollto" href="<?php echo base_url('login'); ?>">Login</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -99,9 +100,8 @@
       <h1 class="text-light shadow-sm">SELAMAT DATANG DI <span class="shadow-sm">ATR/BPN PALANGKA RAYA</span></h1>
       <h2 class="text-light shadow-sm">Kementerian Agraria dan Tata Ruang / Badan Pertahanan Nasional Kantor Pertahanan Kota Palangka Raya</h2>
       <div class="d-flex">
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
-        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span class="text-light shadow-sm">Watch Video</span></a>
-      </div>
+        <a href="#about" class="btn-get-started scrollto">Layanan Kami</a>
+        </div>
     </div>
   </section><!-- End Hero -->
 
