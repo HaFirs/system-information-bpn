@@ -119,7 +119,7 @@
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <h3>Kantor Pertahanan Koata Palangka Raya</h3>
+            
             <p style="text-align:justify">
               Kantor Pertahanan Kota Palangka Raya dibentuk untuk menyelenggarakan tugas dan fungsi Badan Pertahanan Nasional di Kota Plangka Raya.
               Sesuai dengan Peraturan Menteri Agraria Dan Tata Ruang / Kepala Badan Pertahanan Nasional Republik Indonesia Nomor 38 Tahun 2016
@@ -127,6 +127,12 @@
               dan Fungsi sebagai instansi vertikal Kementrian Agraria dan Tata Ruang / Badan Pertahanan Nasional di kabupaten / kota yang berada di bawah
               dan bertanggung jawab kepada Menteri Agraria dan Tata Ruang / Kepala Badan Pertahanan Nasional melalui Kepala Kantor Wilayah Badan Pertahanan Nasional.
             </p>
+            <p>
+             
+            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
+            
             <p>
               Kantor Pertahanan menyelenggarakan fungsi sebagai berikut :
             </p>
@@ -140,34 +146,6 @@
               <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan pemberian dukungan administrasi kepada seluruh unit organisasi kantor pertahanan.</li>
             </ul>
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li>
-                <i class="bx bx-store-alt"></i>
-                <div>
-                  <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                  <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
-                </div>
-              </li>
-              <li>
-                <i class="bx bx-images"></i>
-                <div>
-                  <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                  <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
-                </div>
-              </li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
           </div>
         </div>
 
@@ -190,32 +168,32 @@
               <h4><a href="">Peralihan Hak - Hibah</a></h4><br>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>jbjkbjkkjhjkjkjkgjkg jkbkhgl guighjgkjg kkhlkwhlinlkksladk kkakhdk</p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas pemohon/pemegang dan penerima hak (KTP, KK) serta kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket 
+</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Sertipikat asli </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Akta Hibah dari PPAT </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>ljin Pemindahan Hak apabila di dalam sertipikat/keputusannya dicantumkan tanda yang menyatakan bahwa hak tersebut hanya boleh dipindahtangankan jika telah diperoleh ijin dari instansi yang berwenang 
+</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Penyerahan bukti SSB (BPHTB) dan bukti SSP/PPH untuk perolehan tanah lebih dari 60 Juta Rupiah</p>
                 </li>
-                <li>
-                  <p></p>
-                </li>
+                
               </ol>
             </div>
           </div>
@@ -224,32 +202,30 @@
               <h4><a href="">Peralihan Hak - Pembagian Hak Bersama</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>aweaweaweawea</p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas pemohon/pemegang dan penerima hak (KTP, KK) serta kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket, bagi badan hukum </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Sertipikat asli Akta Pembagian Hak Bersama dari PPAT. </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>ljin Pemindahan Hak apabila di dalam sertipikat/keputusannya dicantumkan tanda yang menyatakan bahwa hak tersebut hanya boleh dipindahtangankan jika telah diperoleh ijin dari instansi yang berwenang </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Penyerahan bukti SSB (BPHTB), bukti SSP/PPH untuk perolehan tanah lebih dari 60 Juta Rupiah bukti bayar uang pemasukan (pada saat pendaftaran hak)</p>
                 </li>
-                <li>
-                  <p></p>
-                </li>
+                
               </ol>
             </div>
           </div>
@@ -259,25 +235,25 @@
               <h4><a href="">Pemecahan/Pemisahan Bidang Tanah Perorangan</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>dawdwawaeaweaw</p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas pemohon (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Sertipikat asli </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>ljin Perubahan Penggunaan Tanah, apabila terjadi perubahan penggunaan tanah </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Melampirkan bukti SSP/PPh sesuai dengan ketentuan </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Tapak kavling dari Kantor Pertanahan</p>
                 </li>
               </ol>
             </div>
@@ -288,26 +264,29 @@
               <h4><a href="">Pendaftaran Hak Tanggungan</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>dawdwawaeaweaw</p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas pemohon (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket, bagi badan hukum </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Sertipikat asli </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Akta Pemberian Hak Tanggungan (APHT) Salinan APHT yang sudah diparaf oleh PPAT yang bersangkutan untuk disahkan sebagai salinan oleh Kepala Kantor untuk pembuatan sertipikat Hak Tanggungan </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy KTP pemberi HT (debitur) atau Akta Pendirian Badan Hukum, penerima HT (Kreditur) dan/atau kuasanya yang telah dicocokkan dengan aslinya oleh petugas loket </p>
                 </li>
+                <li>
+                  <p>Surat Kuasa Membebankan Hak Tanggungan (SKMHT) apabila Pemberian Hak Tanggungan melalui Kuasa</p>
+</li>
               </ol>
             </div>
           </div>
@@ -317,25 +296,25 @@
               <h4><a href="">Penghapusan Hak Tanggungan/Roya</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>dawdwawaeaweaw</p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas pemohon (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket, bagi badan hukum </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Sertipikat tanah dan Sertipikat Hak Tanggungan dan/atau konsen roya jika sertipikat Hak Tanggungan hilang </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Roya/Keterangan Lunas/Pelunasan Hutang dari Kreditur </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy KTP pemberi HT (debitur), penerima HT (Kreditur) dan/atau kuasanya yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
               </ol>
             </div>
@@ -346,25 +325,28 @@
               <h4><a href="">Pertimbangan Teknis Pertahanan</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>dawdwawaeaweaw</p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy NPWP, Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Proposal rencana kegiatan teknis </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Sket lokasi yang dimohon </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy dasar penguasaan tanah </p>
+                </li>
+                <li>
+                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
               </ol>
             </div>
@@ -382,6 +364,7 @@
         <div class="section-title">
           <h2>Kontak</h2>
           <h3><span>Kontak Kantor</span></h3>
+          
           <p>Hubungi kami melalui kontak dibawah ini :</p>
         </div>
 
@@ -390,32 +373,40 @@
             <div class="info-box mb-4">
               <i class="bx bx-map"></i>
               <h3>Alamat Kantor</h3>
-              <p>Jalan D.I Panjaitan Nomor 10</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="info-box  mb-4">
-              <i class="bx bx-envelope"></i>
-              <h3>Email Kantor</h3>
-              <p>contact@example.com</p>
+              <p>Jl. DI. Panjaitan No.10, Palangka, Kec. Jekan Raya, <br> Kota Palangka Raya, Kalimantan Tengah 74874</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6">
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
-              <h3>SMS / WA</h3>
+              <i class="bx bx-envelope"></i>
+              <p>SMS / WA :</p>
               <p>0852 5193 5353</p>
+              <p>Email :</p>
+              <p>kot-palangkaraya@atrbpn.go.id</p>
             </div>
           </div>
 
+          <div class="col-lg-3 col-md-6">
+            <div class="info-box">
+              <div class="section-title">
+              <p>Berikan Penilaian Anda Terhadap Pelayanan Kami : </p>
+              <br>
+          <a href="<?php echo base_url('dashboard/penilaian'); ?>" class="btn-get-started scrollto"><h2>Beri Penilaian</h2></a>
+          </div>
+            </div>
+          </div>
+
+
+         
+          
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
 
           <div class="col-lg-6 ">
-            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31895.008457723237!2d113.8657215!3d-2.2005362!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dfcb25a7a2fc55b%3A0x3f8d35651cd5d39f!2sBadan%20Pertanahan%20Nasional!5e0!3m2!1sid!2sid!4v1628358276457!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
           </div>
         </div>
 

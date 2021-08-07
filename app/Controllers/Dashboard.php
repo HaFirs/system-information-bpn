@@ -24,5 +24,11 @@ class Dashboard extends BaseController
 		echo view('dashboard', $data);
 		echo view('_partials/footer', $chart);
     }
+
+	public function penilaian()
+    {
+       
+        echo view('penilaian');
+    }
     
 }
