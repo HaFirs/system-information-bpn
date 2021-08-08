@@ -101,7 +101,7 @@
       <h2 class="text-light shadow-sm">Kementerian Agraria dan Tata Ruang / Badan Pertahanan Nasional Kantor Pertahanan Kota Palangka Raya</h2>
       <div class="d-flex">
         <a href="#about" class="btn-get-started scrollto">Layanan Kami</a>
-        </div>
+      </div>
     </div>
   </section><!-- End Hero -->
 
@@ -119,7 +119,7 @@
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            
+
             <p style="text-align:justify">
               Kantor Pertahanan Kota Palangka Raya dibentuk untuk menyelenggarakan tugas dan fungsi Badan Pertahanan Nasional di Kota Plangka Raya.
               Sesuai dengan Peraturan Menteri Agraria Dan Tata Ruang / Kepala Badan Pertahanan Nasional Republik Indonesia Nomor 38 Tahun 2016
@@ -128,11 +128,11 @@
               dan bertanggung jawab kepada Menteri Agraria dan Tata Ruang / Kepala Badan Pertahanan Nasional melalui Kepala Kantor Wilayah Badan Pertahanan Nasional.
             </p>
             <p>
-             
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+
+              <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            
+
             <p>
               Kantor Pertahanan menyelenggarakan fungsi sebagai berikut :
             </p>
@@ -174,8 +174,7 @@
                   <p>Surat Kuasa apabila dikuasakan </p>
                 </li>
                 <li>
-                  <p>Fotocopy identitas pemohon/pemegang dan penerima hak (KTP, KK) serta kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket 
-</p>
+                  <p>Fotocopy identitas pemohon/pemegang dan penerima hak (KTP, KK) serta kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
                 <li>
                   <p>Sertipikat asli </p>
@@ -184,8 +183,7 @@
                   <p>Akta Hibah dari PPAT </p>
                 </li>
                 <li>
-                  <p>ljin Pemindahan Hak apabila di dalam sertipikat/keputusannya dicantumkan tanda yang menyatakan bahwa hak tersebut hanya boleh dipindahtangankan jika telah diperoleh ijin dari instansi yang berwenang 
-</p>
+                  <p>ljin Pemindahan Hak apabila di dalam sertipikat/keputusannya dicantumkan tanda yang menyatakan bahwa hak tersebut hanya boleh dipindahtangankan jika telah diperoleh ijin dari instansi yang berwenang </p>
                 </li>
                 <li>
                   <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket </p>
@@ -193,7 +191,7 @@
                 <li>
                   <p>Penyerahan bukti SSB (BPHTB) dan bukti SSP/PPH untuk perolehan tanah lebih dari 60 Juta Rupiah</p>
                 </li>
-                
+
               </ol>
             </div>
           </div>
@@ -225,11 +223,10 @@
                 <li>
                   <p>Penyerahan bukti SSB (BPHTB), bukti SSP/PPH untuk perolehan tanah lebih dari 60 Juta Rupiah bukti bayar uang pemasukan (pada saat pendaftaran hak)</p>
                 </li>
-                
+
               </ol>
             </div>
           </div>
-
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <h4><a href="">Pemecahan/Pemisahan Bidang Tanah Perorangan</a></h4>
@@ -258,7 +255,98 @@
               </ol>
             </div>
           </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <h4><a href="">Peralihan Hak - Hibah</a></h4><br>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                </li>
+                <li>
+                  <p>Surat Kuasa apabila dikuasakan </p>
+                </li>
+                <li>
+                  <p>Fotocopy identitas pemohon/pemegang dan penerima hak (KTP, KK) serta kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket</p>
+                </li>
+                <li>
+                  <p>Sertipikat asli </p>
+                </li>
+                <li>
+                  <p>Akta Hibah dari PPAT </p>
+                </li>
+                <li>
+                  <p>ljin Pemindahan Hak apabila di dalam sertipikat/keputusannya dicantumkan tanda yang menyatakan bahwa hak tersebut hanya boleh dipindahtangankan jika telah diperoleh ijin dari instansi yang berwenang </p>
+                </li>
+                <li>
+                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                </li>
+                <li>
+                  <p>Penyerahan bukti SSB (BPHTB) dan bukti SSP/PPH untuk perolehan tanah lebih dari 60 Juta Rupiah</p>
+                </li>
 
+              </ol>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <h4><a href="">Peralihan Hak - Pembagian Hak Bersama</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                </li>
+                <li>
+                  <p>Surat Kuasa apabila dikuasakan </p>
+                </li>
+                <li>
+                  <p>Fotocopy identitas pemohon/pemegang dan penerima hak (KTP, KK) serta kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                </li>
+                <li>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket, bagi badan hukum </p>
+                </li>
+                <li>
+                  <p>Sertipikat asli Akta Pembagian Hak Bersama dari PPAT. </p>
+                </li>
+                <li>
+                  <p>ljin Pemindahan Hak apabila di dalam sertipikat/keputusannya dicantumkan tanda yang menyatakan bahwa hak tersebut hanya boleh dipindahtangankan jika telah diperoleh ijin dari instansi yang berwenang </p>
+                </li>
+                <li>
+                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                </li>
+                <li>
+                  <p>Penyerahan bukti SSB (BPHTB), bukti SSP/PPH untuk perolehan tanah lebih dari 60 Juta Rupiah bukti bayar uang pemasukan (pada saat pendaftaran hak)</p>
+                </li>
+
+              </ol>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <h4><a href="">Pemecahan/Pemisahan Bidang Tanah Perorangan</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                </li>
+                <li>
+                  <p>Surat Kuasa apabila dikuasakan </p>
+                </li>
+                <li>
+                  <p>Fotocopy identitas pemohon (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                </li>
+                <li>
+                  <p>Sertipikat asli </p>
+                </li>
+                <li>
+                  <p>ljin Perubahan Penggunaan Tanah, apabila terjadi perubahan penggunaan tanah </p>
+                </li>
+                <li>
+                  <p>Melampirkan bukti SSP/PPh sesuai dengan ketentuan </p>
+                </li>
+                <li>
+                  <p>Tapak kavling dari Kantor Pertanahan</p>
+                </li>
+              </ol>
+            </div>
+          </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h4><a href="">Pendaftaran Hak Tanggungan</a></h4>
@@ -286,11 +374,10 @@
                 </li>
                 <li>
                   <p>Surat Kuasa Membebankan Hak Tanggungan (SKMHT) apabila Pemberian Hak Tanggungan melalui Kuasa</p>
-</li>
+                </li>
               </ol>
             </div>
           </div>
-
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <h4><a href="">Penghapusan Hak Tanggungan/Roya</a></h4>
@@ -319,7 +406,6 @@
               </ol>
             </div>
           </div>
-
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <h4><a href="">Pertimbangan Teknis Pertahanan</a></h4>
@@ -364,7 +450,7 @@
         <div class="section-title">
           <h2>Kontak</h2>
           <h3><span>Kontak Kantor</span></h3>
-          
+
           <p>Hubungi kami melalui kontak dibawah ini :</p>
         </div>
 
@@ -391,16 +477,18 @@
           <div class="col-lg-3 col-md-6">
             <div class="info-box">
               <div class="section-title">
-              <p>Berikan Penilaian Anda Terhadap Pelayanan Kami : </p>
-              <br>
-          <a href="<?php echo base_url('dashboard/penilaian'); ?>" class="btn-get-started scrollto"><h2>Beri Penilaian</h2></a>
-          </div>
+                <p>Berikan Penilaian Anda Terhadap Pelayanan Kami : </p>
+                <br>
+                <a href="<?php echo base_url('dashboard/penilaian'); ?>" class="btn-get-started scrollto">
+                  <h2>Beri Penilaian</h2>
+                </a>
+              </div>
             </div>
           </div>
 
 
-         
-          
+
+
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
