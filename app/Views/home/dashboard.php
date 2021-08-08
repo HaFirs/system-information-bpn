@@ -205,30 +205,35 @@
               <h4><a href="">Peralihan Hak Jual - Beli</a></h4><br>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Surat Kuasa apabila dikuasakan </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy identitas pemohon/pemegang dan penerima hak (KTP, KK) serta kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket, bagi badan hukum </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Sertipikat asli Akta Pembagian Hak Bersama dari PPAT. </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>ljin Pemindahan Hak apabila di dalam sertipikat/keputusannya dicantumkan tanda yang menyatakan bahwa hak tersebut hanya boleh dipindahtangankan jika telah diperoleh ijin dari instansi yang berwenang </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Penyerahan bukti SSB (BPHTB), bukti SSP/PPH untuk perolehan tanah lebih dari 60 Juta Rupiah bukti bayar uang pemasukan (pada saat pendaftaran hak)</p>
+                  <p></p>
                 </li>
-
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
               </ol>
             </div>
           </div>
@@ -237,115 +242,145 @@
               <h4><a href="">Surat Keterangan Pendaftaran Tanah</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Surat Kuasa apabila dikuasakan </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy identitas pemohon (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Sertipikat asli </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>ljin Perubahan Penggunaan Tanah, apabila terjadi perubahan penggunaan tanah </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Melampirkan bukti SSP/PPh sesuai dengan ketentuan </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Tapak kavling dari Kantor Pertanahan</p>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
                 </li>
               </ol>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <h4><a href="">Pendaftaran Hak Tanggungan</a></h4>
+              <h4><a href="">Peralihan Hak-Pewarisan/Wasiat</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Surat Kuasa apabila dikuasakan </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy identitas pemohon (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket, bagi badan hukum </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Sertipikat asli </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Akta Pemberian Hak Tanggungan (APHT) Salinan APHT yang sudah diparaf oleh PPAT yang bersangkutan untuk disahkan sebagai salinan oleh Kepala Kantor untuk pembuatan sertipikat Hak Tanggungan </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy KTP pemberi HT (debitur) atau Akta Pendirian Badan Hukum, penerima HT (Kreditur) dan/atau kuasanya yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Surat Kuasa Membebankan Hak Tanggungan (SKMHT) apabila Pemberian Hak Tanggungan melalui Kuasa</p>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
                 </li>
               </ol>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <h4><a href="">Penghapusan Hak Tanggungan/Roya</a></h4>
+              <h4><a href="">Peralihan Hak - Tukar Menukar</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Surat Kuasa apabila dikuasakan </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy identitas pemohon (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket, bagi badan hukum </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Sertipikat tanah dan Sertipikat Hak Tanggungan dan/atau konsen roya jika sertipikat Hak Tanggungan hilang </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Surat Roya/Keterangan Lunas/Pelunasan Hutang dari Kreditur </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy KTP pemberi HT (debitur), penerima HT (Kreditur) dan/atau kuasanya yang telah dicocokkan dengan aslinya oleh petugas loket</p>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
                 </li>
               </ol>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <h4><a href="">Pertimbangan Teknis Pertahanan</a></h4>
+              <h4><a href="">Pengecekan Sertifikat</a></h4><br>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Surat Kuasa apabila dikuasakan </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy NPWP, Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Proposal rencana kegiatan teknis </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Sket lokasi yang dimohon </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy dasar penguasaan tanah </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket</p>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
                 </li>
               </ol>
             </div>
