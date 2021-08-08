@@ -68,21 +68,24 @@
           <li><a class="nav-link scrollto" href="#services">Pelayanan</a></li>
           <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown nav-link scrollto"><a href="#services"><span>Pelayanan</span><i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
+              <li><a href="#1">Hak Milik Perorangan</a></li>
               <li><a href="#">Drop Down 2</a></li>
               <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#16">Pengecekan Sertipikat</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
@@ -182,39 +185,32 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+          <div id="1" class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h4><a href="">Hak Milik Perorangan</a></h4><br>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p></p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>
+                    Asli Bukti perolehan tanah/Alas Hak
+                  </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Asli Surat-surat bukti pelepasan hak dan pelunasan tanah dan rumah (Rumah Gol III) atau rumah yang dibeli dari pemerintah</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Foto copy SPPT PBB Tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket, penyerahan bukti SSB (BPHTB) dan bukti bayar uang pemasukan (pada saat pendaftaran hak)</p>
                 </li>
                 <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
+                  <p>Melampirkan bukti SSP/PPh sesuai dengan ketentuan</p>
                 </li>
               </ol>
             </div>
@@ -224,34 +220,32 @@
               <h4><a href="">Peralihan Hak Jual - Beli</a></h4><br>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p></p>
+                  <p>
+                    Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas pemohon (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket, bagi badan hukum</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Sertipikat asli</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Akta Jual Beli dari PPAT</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p> Fotocopy KTP dan para pihak penjual-pembeli dan/atau kuasanya</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>ljin Pemindahan Hak apabila di dalam sertipikat/keputusannya dicantumkan tanda yang menyatakan bahwa hak tersebut hanya boleh dipindahtangankan jika telah diperoleh ijin dari instansi yang berwenang </p>
                 </li>
                 <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
+                  <p>Foto copy SPPT PBB Tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket, penyerahan bukti SSB (BPHTB) dan bukti bayar uang pemasukan (pada saat pendaftaran hak)</p>
                 </li>
               </ol>
             </div>
@@ -261,34 +255,16 @@
               <h4><a href="">Surat Keterangan Pendaftaran Tanah</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p></p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas pemohon (KTP) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
                 <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
+                  <p>Bukti hubungan hukum antara subjek dan objek hak</p>
                 </li>
               </ol>
             </div>
@@ -298,34 +274,28 @@
               <h4><a href="">Peralihan Hak-Pewarisan/Wasiat</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p></p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas pemohon/para ahli waris (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Sertipikat asli</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Keterangan Waris sesuai peraturan perundang-undangan Akte Wasiat Notariel</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Akte Wasiat Notariel</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
                 <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
+                  <p>Penyerahan bukti SSB (BPHTB), bukti SSP/PPH untuk perolehan tanah lebih dari 60 Juta Rupiah bukti bayar uang pemasukan (pada saat pendaftaran hak)</p>
                 </li>
               </ol>
             </div>
@@ -335,71 +305,50 @@
               <h4><a href="">Peralihan Hak - Tukar Menukar</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p></p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas pemohon/pemegang dan penerima hak (KTP, KK) serta kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Sertipikat asli</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Akta Tukar Menukar dari PPAT</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>ljin Pemindahan Hak apabila di dalam sertipikat/keputusannya dicantumkan tanda yang menyatakan bahwa hak tersebut hanya boleh dipindahtangankan jika telah diperoleh ijin dari instansi yang berwenang</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
                 <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
+                  <p>Penyerahan bukti SSB (BPHTB) dan bukti SSP/PPH untuk perolehan tanah lebih dari 60 Juta Rupiah</p>
                 </li>
               </ol>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <h4><a href="">Pengecekan Sertifikat</a></h4><br>
+              <h4><a href="">Pengecekan Sertipikat</a></h4><br>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p></p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan</p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas pemohon (KTP) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
                 <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
+                  <p>Sertipikat hak atas tanah/Sertipikat HMSRS Surat pengantar dari PPAT untuk kegiatan peralihan/pembebanan hak dengan akta PPAT</p>
                 </li>
               </ol>
             </div>
@@ -584,6 +533,84 @@
                 </li>
                 <li>
                   <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket</p>
+                </li>
+              </ol>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <h4><a href="">Pengukuran Bidang Tanah untuk Keperluan Pengambilan Batas</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+              </ol>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <h4><a href="">Pengukuran dalam Rangka Kegiatan Inventarisasi/Pengadaan Tanah</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+              </ol>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <h4><a href="">Pengukuran atas Permintaan Instansi dan/atau Masyarakat untuk mengetahui luas tanah</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
+              </ol>
+            </div>
+          </div>
+          <div id="16" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <h4><a href="">Pengelolaan Pengaduan</a></h4><br>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p>Pengaduan secara tertulis baik yang disampaikan melalui loket, kotak pengaduan, website</p>
                 </li>
               </ol>
             </div>
