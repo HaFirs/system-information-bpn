@@ -165,39 +165,44 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <h4><a href="">Peralihan Hak - Hibah</a></h4><br>
+              <h4><a href="">Hak Milik Perorangan</a></h4><br>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Surat Kuasa apabila dikuasakan </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Fotocopy identitas pemohon/pemegang dan penerima hak (KTP, KK) serta kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket</p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Sertipikat asli </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Akta Hibah dari PPAT </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>ljin Pemindahan Hak apabila di dalam sertipikat/keputusannya dicantumkan tanda yang menyatakan bahwa hak tersebut hanya boleh dipindahtangankan jika telah diperoleh ijin dari instansi yang berwenang </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                  <p></p>
                 </li>
                 <li>
-                  <p>Penyerahan bukti SSB (BPHTB) dan bukti SSP/PPH untuk perolehan tanah lebih dari 60 Juta Rupiah</p>
+                  <p></p>
                 </li>
-
+                <li>
+                  <p></p>
+                </li>
+                <li>
+                  <p></p>
+                </li>
               </ol>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <h4><a href="">Peralihan Hak - Pembagian Hak Bersama</a></h4>
+              <h4><a href="">Peralihan Hak Jual - Beli</a></h4><br>
               <ol type="1" style="text-align: justify;">
                 <li>
                   <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
@@ -229,7 +234,7 @@
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <h4><a href="">Pemecahan/Pemisahan Bidang Tanah Perorangan</a></h4>
+              <h4><a href="">Surat Keterangan Pendaftaran Tanah</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
                   <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
@@ -255,7 +260,98 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <h4><a href="">Pendaftaran Hak Tanggungan</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                </li>
+                <li>
+                  <p>Surat Kuasa apabila dikuasakan </p>
+                </li>
+                <li>
+                  <p>Fotocopy identitas pemohon (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                </li>
+                <li>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket, bagi badan hukum </p>
+                </li>
+                <li>
+                  <p>Sertipikat asli </p>
+                </li>
+                <li>
+                  <p>Akta Pemberian Hak Tanggungan (APHT) Salinan APHT yang sudah diparaf oleh PPAT yang bersangkutan untuk disahkan sebagai salinan oleh Kepala Kantor untuk pembuatan sertipikat Hak Tanggungan </p>
+                </li>
+                <li>
+                  <p>Fotocopy KTP pemberi HT (debitur) atau Akta Pendirian Badan Hukum, penerima HT (Kreditur) dan/atau kuasanya yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                </li>
+                <li>
+                  <p>Surat Kuasa Membebankan Hak Tanggungan (SKMHT) apabila Pemberian Hak Tanggungan melalui Kuasa</p>
+                </li>
+              </ol>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <h4><a href="">Penghapusan Hak Tanggungan/Roya</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                </li>
+                <li>
+                  <p>Surat Kuasa apabila dikuasakan </p>
+                </li>
+                <li>
+                  <p>Fotocopy identitas pemohon (KTP, KK) dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                </li>
+                <li>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket, bagi badan hukum </p>
+                </li>
+                <li>
+                  <p>Sertipikat tanah dan Sertipikat Hak Tanggungan dan/atau konsen roya jika sertipikat Hak Tanggungan hilang </p>
+                </li>
+                <li>
+                  <p>Surat Roya/Keterangan Lunas/Pelunasan Hutang dari Kreditur </p>
+                </li>
+                <li>
+                  <p>Fotocopy KTP pemberi HT (debitur), penerima HT (Kreditur) dan/atau kuasanya yang telah dicocokkan dengan aslinya oleh petugas loket</p>
+                </li>
+              </ol>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <h4><a href="">Pertimbangan Teknis Pertahanan</a></h4>
+              <ol type="1" style="text-align: justify;">
+                <li>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                </li>
+                <li>
+                  <p>Surat Kuasa apabila dikuasakan </p>
+                </li>
+                <li>
+                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket </p>
+                </li>
+                <li>
+                  <p>Fotocopy NPWP, Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum </p>
+                </li>
+                <li>
+                  <p>Proposal rencana kegiatan teknis </p>
+                </li>
+                <li>
+                  <p>Sket lokasi yang dimohon </p>
+                </li>
+                <li>
+                  <p>Fotocopy dasar penguasaan tanah </p>
+                </li>
+                <li>
+                  <p>Foto copy SPPT PBB tahun berjalan yang telah dicocokkan dengan aslinya oleh petugas loket</p>
+                </li>
+              </ol>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h4><a href="">Peralihan Hak - Hibah</a></h4><br>
               <ol type="1" style="text-align: justify;">
@@ -287,7 +383,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 " data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <h4><a href="">Peralihan Hak - Pembagian Hak Bersama</a></h4>
               <ol type="1" style="text-align: justify;">
@@ -319,7 +415,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 " data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <h4><a href="">Pemecahan/Pemisahan Bidang Tanah Perorangan</a></h4>
               <ol type="1" style="text-align: justify;">
@@ -347,6 +443,7 @@
               </ol>
             </div>
           </div>
+
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h4><a href="">Pendaftaran Hak Tanggungan</a></h4>
