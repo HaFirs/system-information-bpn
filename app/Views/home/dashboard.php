@@ -98,9 +98,9 @@
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <h1 class="text-light shadow-sm">SELAMAT DATANG DI <span class="shadow-sm">ATR/BPN PALANGKA RAYA</span></h1>
-      <h2 class="text-light shadow-sm">Kementerian Agraria dan Tata Ruang / Badan Pertahanan Nasional Kantor Pertahanan Kota Palangka Raya</h2>
+      <h2 class="text-light shadow-sm">Kementerian Agraria dan Tata Ruang / Badan Pertanahan Nasional Kantor Pertanahan Kota Palangka Raya</h2>
       <div class="d-flex">
-        <a href="#about" class="btn-get-started scrollto">Layanan Kami</a>
+        <a href="#about" class="btn-get-started scrollto">Tentang Kami</a>
       </div>
     </div>
   </section><!-- End Hero -->
@@ -113,19 +113,38 @@
 
         <div class="section-title">
           <h2>Tentang</h2>
+          <h3>
+            <span style="color: red;">Visi, </span>
+            <span style="color: royalblue;">Misi </span> dan
+            <span>Motto</span>
+          </h3>
+          <h3 style="color: red; text-align:justify">Visi :</h3>
+          <h5 style="text-align:justify">
+            Mewujudkan Pengelolaan Pelayanan Pertanahan yang prima untuk meningkatkan kemakmuran dan kesejahteraan masyarakat kota Palangka Raya
+          </h5>
+          <h3 style="color: royalblue; text-align:justify">Misi :</h3>
+          <h5 style="text-align:justify">
+            Meningkatkan Kinerja Pelayanan Pertanahan kepada seluruh Masyarakat dengan tepat, cepat dan sesuai dengan ketentuan
+          </h5>
+          <h3 style="text-align:justify"><span>Motto :</span></h3>
+          <h5 style="text-align:justify">
+            Semangat Memudahkan
+          </h5>
+
+          <br>
           <h3>Tentang <span>ATR/BPN</span></h3>
-          <p>Kementrian Agraria dan Tata Ruang / Badan Pertahanan Nasional Kantor Pertahanan Kota Palangka Raya</p>
+          <p>Kementrian Agraria dan Tata Ruang / Badan Pertanahan Nasional Kantor Pertanahan Kota Palangka Raya</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
 
             <p style="text-align:justify">
-              Kantor Pertahanan Kota Palangka Raya dibentuk untuk menyelenggarakan tugas dan fungsi Badan Pertahanan Nasional di Kota Plangka Raya.
-              Sesuai dengan Peraturan Menteri Agraria Dan Tata Ruang / Kepala Badan Pertahanan Nasional Republik Indonesia Nomor 38 Tahun 2016
-              Tentang Organisasi Dan Tata Kerja Kantor Wilayah Badan Pertahanan Nasional dan Kantor Prtahanan. Kantor Pertahanan memiliki Kedudukan, Tugas
-              dan Fungsi sebagai instansi vertikal Kementrian Agraria dan Tata Ruang / Badan Pertahanan Nasional di kabupaten / kota yang berada di bawah
-              dan bertanggung jawab kepada Menteri Agraria dan Tata Ruang / Kepala Badan Pertahanan Nasional melalui Kepala Kantor Wilayah Badan Pertahanan Nasional.
+              Kantor Pertanahan Kota Palangka Raya dibentuk untuk menyelenggarakan tugas dan fungsi Badan Pertanahan Nasional di Kota Plangka Raya.
+              Sesuai dengan Peraturan Menteri Agraria Dan Tata Ruang / Kepala Badan Pertanahan Nasional Republik Indonesia Nomor 38 Tahun 2016
+              Tentang Organisasi Dan Tata Kerja Kantor Wilayah Badan Pertanahan Nasional dan Kantor Prtahanan. Kantor Pertanahan memiliki Kedudukan, Tugas
+              dan Fungsi sebagai instansi vertikal Kementrian Agraria dan Tata Ruang / Badan Pertanahan Nasional di kabupaten / kota yang berada di bawah
+              dan bertanggung jawab kepada Menteri Agraria dan Tata Ruang / Kepala Badan Pertanahan Nasional melalui Kepala Kantor Wilayah Badan Pertanahan Nasional.
             </p>
             <p>
 
@@ -134,16 +153,16 @@
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
 
             <p>
-              Kantor Pertahanan menyelenggarakan fungsi sebagai berikut :
+              Kantor Pertanahan menyelenggarakan fungsi sebagai berikut :
             </p>
             <ul>
               <li style="text-align: justify;"><i class="ri-check-double-line"></i>Perumahan Bhakti Jl. Tingang Induk tahun 2006 sebanyak 8 unit rumah</li>
               <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan survei, pengukuran dan pemetaan;</li>
               <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan penetapan hak tanah, pendaftaran tanah dan pemberdayaan masyarakat;</li>
-              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan penataa pertahanan;</li>
+              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan penataa Pertanahan;</li>
               <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan pengadaan tanah;</li>
-              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan pengendalian pertahanan dan penanganan sengketa dan perkara pertahanan; dan</li>
-              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan pemberian dukungan administrasi kepada seluruh unit organisasi kantor pertahanan.</li>
+              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan pengendalian Pertanahan dan penanganan sengketa dan perkara Pertanahan; dan</li>
+              <li style="text-align: justify;"><i class="ri-check-double-line"></i>Pelaksanaan pemberian dukungan administrasi kepada seluruh unit organisasi kantor Pertanahan.</li>
             </ul>
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
@@ -540,7 +559,7 @@
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <h4><a href="">Pertimbangan Teknis Pertahanan</a></h4>
+              <h4><a href="">Pertimbangan Teknis Pertanahan</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
                   <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
