@@ -543,19 +543,22 @@
               <h4><a href="">Pengukuran Bidang Tanah untuk Keperluan Pengambilan Batas</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p></p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup</p> 
+                    </li>
+                <li>
+                  <p>Surat Kuasa apabila dikuasakan 
+                    </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket 
+                    </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum 
+                    </p>
                 </li>
                 <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
+                  <p>Fotocopy Sertipikat yang telah dicocokkan dengan aslinya oleh petugas loket</p>
                 </li>
               </ol>
             </div>
@@ -566,20 +569,23 @@
               <h4><a href="">Pengukuran dalam Rangka Kegiatan Inventarisasi/Pengadaan Tanah</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p></p>
+                  <p>
+                  Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup 
+                  </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Surat Kuasa apabila dikuasakan 
+                    </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket 
+                    </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum
+                  </p>
                 </li>
-                <li>
-                  <p></p>
-                </li>
+            
               </ol>
             </div>
           </div>
@@ -588,20 +594,21 @@
               <h4><a href="">Pengukuran atas Permintaan Instansi dan/atau Masyarakat untuk mengetahui luas tanah</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p></p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
+                    </li>
+                <li>
+                  <p>Surat Kuasa apabila dikuasakan 
+                    </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket 
+                    </p>
                 </li>
                 <li>
-                  <p></p>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum</p>
+                </p>
                 </li>
-                <li>
-                  <p></p>
-                </li>
-                <li>
-                  <p></p>
-                </li>
+              
               </ol>
             </div>
           </div>
