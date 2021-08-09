@@ -608,6 +608,7 @@
                   <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum</p>
                 </p>
                 </li>
+                
               
               </ol>
             </div>
