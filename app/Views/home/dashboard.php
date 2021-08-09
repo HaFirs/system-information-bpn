@@ -69,6 +69,7 @@
           <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
           <li class="dropdown"><a class="nav-link scrollto" href="#services"><span>Pelayanan</span><i class="bi bi-chevron-down"></i></a>
             <ul>
+              <li style="text-align: center;"><a class="btn btn-outline-warning" href="<?php echo base_url('dashboard/penilaian'); ?>">Upload Berkas</a></li>
               <li><a class="nav-link scrollto" href="#1">Hak Milik Perorangan</a></li>
               <li><a class="nav-link scrollto" href="#2">Peralihan Hak Jual - Beli</a></li>
               <li><a class="nav-link scrollto" href="#3">Surat Keterangan Pendaftaran Tanah</a></li>
@@ -182,7 +183,8 @@
         <div class="section-title">
           <h2>Pelayanan</h2>
           <h3>Daftar <span>Pelayanan</span> beserta <span>Persyaratannya</span> </h3>
-          <p>Silahkan lihat Pelayanan dan Persyaratan Yang Anda Inginkan</p>
+          <p>Silahkan lihat Pelayanan dan Persyaratan Yang Anda Inginkan</p><br>
+          <a class="btn btn-outline-warning" href="<?php echo base_url('dashboard/penilaian'); ?>">Upload Berkas</a>
         </div>
 
         <div class="row">
@@ -637,10 +639,9 @@
         <div class="section-title">
           <h2>Penilaian</h2>
           <h3>Berikan Penilaian Anda Terhadap Pelayanan Kami</h3><br>
-          <a href="<?php echo base_url('dashboard/penilaian'); ?>">
-            <h2><span>Beri Nilai</span></h2>
-          </a>
+          <a class="btn btn-outline-warning" href="<?php echo base_url('dashboard/penilaian'); ?>">Beri Penilaian</a>
         </div>
+
         <h3 style="text-align: center;">Grafik Penilaian :</h3>
       </div>
     </section>
