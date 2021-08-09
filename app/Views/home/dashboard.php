@@ -65,29 +65,29 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
           <li><a class="nav-link scrollto" href="#about">Tentang</a></li>
-          <li><a class="nav-link scrollto" href="#services">Pelayanan</a></li>
           <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
-          <li class="dropdown nav-link scrollto"><a href="#services"><span>Pelayanan</span><i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a class="nav-link scrollto" href="#services"><span>Pelayanan</span><i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#1">Hak Milik Perorangan</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#16">Pengecekan Sertipikat</a></li>
+              <li><a class="nav-link scrollto" href="#1">Hak Milik Perorangan</a></li>
+              <li><a class="nav-link scrollto" href="#2">Peralihan Hak Jual - Beli</a></li>
+              <li><a class="nav-link scrollto" href="#3">Surat Keterangan Pendaftaran Tanah</a></li>
+              <li><a class="nav-link scrollto" href="#4">Peralihan Hak-Pewarisan/Wasiat</a></li>
+              <li><a class="nav-link scrollto" href="#5">Peralihan Hak - Tukar Menukar</a></li>
+              <li><a class="nav-link scrollto" href="#6">Pengecekan Sertipikat</a></li>
+              <li><a class="nav-link scrollto" href="#7">Peralihan Hak - Hibah</a></li>
+              <li><a class="nav-link scrollto" href="#8">Peralihan Hak - Pembagian Hak Bersama</a></li>
+              <li><a class="nav-link scrollto" href="#9">Pemecahan/Pemisahan Bidang Tanah Perorangan</a></li>
+              <li><a class="nav-link scrollto" href="#10">Pendaftaran Hak Tanggungan</a></li>
+              <li><a class="nav-link scrollto" href="#11">Penghapusan Hak Tanggungan/Roya</a></li>
+              <li><a class="nav-link scrollto" href="#12">Pertimbangan Teknis Pertanahan</a></li>
+              <li><a class="nav-link scrollto" href="#13">Pengukuran Bidang Tanah untuk Keperluan Pengambilan Batas</a></li>
+              <li><a class="nav-link scrollto" href="#14">Pengukuran dalam Rangka Kegiatan Inventarisasi/Pengadaan Tanah</a></li>
+              <li><a class="nav-link scrollto" href="#15">Pengukuran atas Permintaan Instansi dan/atau Masyarakat untuk mengetahui luas tanah</a></li>
+              <li><a class="nav-link scrollto" href="#16">Pengecekan Sertipikat</a></li>
             </ul>
           </li>
+          <li><a class="nav-link scrollto" href="#penilaian">Penilaian</a></li>
           <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
           <li><a class="nav-link scrollto" href="<?php echo base_url('login'); ?>">Login</a></li>
         </ul>
@@ -215,7 +215,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+          <div id="2" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <h4><a href="">Peralihan Hak Jual - Beli</a></h4><br>
               <ol type="1" style="text-align: justify;">
@@ -250,7 +250,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+          <div id="3" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <h4><a href="">Surat Keterangan Pendaftaran Tanah</a></h4>
               <ol type="1" style="text-align: justify;">
@@ -269,7 +269,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+          <div id="4" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h4><a href="">Peralihan Hak-Pewarisan/Wasiat</a></h4>
               <ol type="1" style="text-align: justify;">
@@ -300,7 +300,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+          <div id="5" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <h4><a href="">Peralihan Hak - Tukar Menukar</a></h4>
               <ol type="1" style="text-align: justify;">
@@ -334,7 +334,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+          <div id="6" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <h4><a href="">Pengecekan Sertipikat</a></h4><br>
               <ol type="1" style="text-align: justify;">
@@ -354,7 +354,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+          <div id="7" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h4><a href="">Peralihan Hak - Hibah</a></h4><br>
               <ol type="1" style="text-align: justify;">
@@ -386,7 +386,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 " data-aos="zoom-in" data-aos-delay="200">
+          <div id="8" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 " data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <h4><a href="">Peralihan Hak - Pembagian Hak Bersama</a></h4>
               <ol type="1" style="text-align: justify;">
@@ -418,7 +418,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 " data-aos="zoom-in" data-aos-delay="300">
+          <div id="9" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 " data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <h4><a href="">Pemecahan/Pemisahan Bidang Tanah Perorangan</a></h4>
               <ol type="1" style="text-align: justify;">
@@ -447,7 +447,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+          <div id="10" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h4><a href="">Pendaftaran Hak Tanggungan</a></h4>
               <ol type="1" style="text-align: justify;">
@@ -478,7 +478,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+          <div id="11" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <h4><a href="">Penghapusan Hak Tanggungan/Roya</a></h4>
               <ol type="1" style="text-align: justify;">
@@ -506,7 +506,7 @@
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+          <div id="12" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <h4><a href="">Pertimbangan Teknis Pertanahan</a></h4>
               <ol type="1" style="text-align: justify;">
@@ -538,24 +538,24 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+          <div id="13" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h4><a href="">Pengukuran Bidang Tanah untuk Keperluan Pengambilan Batas</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
-                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup</p> 
-                    </li>
-                <li>
-                  <p>Surat Kuasa apabila dikuasakan 
-                    </p>
+                  <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup</p>
                 </li>
                 <li>
-                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket 
-                    </p>
+                  <p>Surat Kuasa apabila dikuasakan
+                  </p>
                 </li>
                 <li>
-                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum 
-                    </p>
+                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket
+                  </p>
+                </li>
+                <li>
+                  <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum
+                  </p>
                 </li>
                 <li>
                   <p>Fotocopy Sertipikat yang telah dicocokkan dengan aslinya oleh petugas loket</p>
@@ -564,52 +564,52 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+          <div id="14" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <h4><a href="">Pengukuran dalam Rangka Kegiatan Inventarisasi/Pengadaan Tanah</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
                   <p>
-                  Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup 
+                    Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup
                   </p>
                 </li>
                 <li>
-                  <p>Surat Kuasa apabila dikuasakan 
-                    </p>
+                  <p>Surat Kuasa apabila dikuasakan
+                  </p>
                 </li>
                 <li>
-                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket 
-                    </p>
+                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket
+                  </p>
                 </li>
                 <li>
                   <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum
                   </p>
                 </li>
-            
+
               </ol>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+          <div id="15" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <h4><a href="">Pengukuran atas Permintaan Instansi dan/atau Masyarakat untuk mengetahui luas tanah</a></h4>
               <ol type="1" style="text-align: justify;">
                 <li>
                   <p>Formulir permohonan yang sudah diisi dan ditandatangani pemohon atau kuasanya di atas materai cukup </p>
-                    </li>
-                <li>
-                  <p>Surat Kuasa apabila dikuasakan 
-                    </p>
                 </li>
                 <li>
-                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket 
-                    </p>
+                  <p>Surat Kuasa apabila dikuasakan
+                  </p>
+                </li>
+                <li>
+                  <p>Fotocopy identitas(KTP, KK) pemohon dan kuasa apabila dikuasakan, yang telah dicocokkan dengan aslinya oleh petugas loket
+                  </p>
                 </li>
                 <li>
                   <p>Fotocopy Akta Pendirian dan Pengesahan Badan Hukum yang telah dicocokkan dengan aslinya oleh petugas loket bagi Badan Hukum</p>
-                </p>
+                  </p>
                 </li>
-                
-              
+
+
               </ol>
             </div>
           </div>
