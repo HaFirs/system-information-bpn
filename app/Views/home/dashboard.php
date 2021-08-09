@@ -641,7 +641,7 @@
             <h2><span>Beri Nilai</span></h2>
           </a>
         </div>
-        <h3 style="text-align: center;">Grafik Penilain :</h3>
+        <h3 style="text-align: center;">Grafik Penilaian :</h3>
       </div>
     </section>
     <!-- End penilain Section -->
@@ -667,14 +667,18 @@
             </div>
           </div>
 
-          <div class="col-lg-6">
+          <div class="col-lg-3 col-md-6">
+            <div class="info-box  mb-4">
+              <i class="bx bx-envelope"></i>
+              <h3>Email :</h3>
+              <p>kot-palangkaraya@atrbpn.go.id</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
-              <i class="bx bx-envelope"></i>
-              <p>SMS / WA :</p>
+              <h3>SMS / WA :</h3>
               <p>0852 5193 5353</p>
-              <p>Email :</p>
-              <p>kot-palangkaraya@atrbpn.go.id</p>
             </div>
           </div>
         </div>
