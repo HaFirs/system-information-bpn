@@ -84,7 +84,7 @@
               <li><a class="nav-link scrollto" href="#13">Pengukuran Bidang Tanah untuk Keperluan Pengambilan Batas</a></li>
               <li><a class="nav-link scrollto" href="#14">Pengukuran dalam Rangka Kegiatan Inventarisasi/Pengadaan Tanah</a></li>
               <li><a class="nav-link scrollto" href="#15">Pengukuran atas Permintaan Instansi dan/atau Masyarakat untuk mengetahui luas tanah</a></li>
-              <li><a class="nav-link scrollto" href="#16">Pengecekan Sertipikat</a></li>
+              <li><a class="nav-link scrollto" href="#16">Pengecekan Sertifikat</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#penilaian">Penilaian</a></li>
